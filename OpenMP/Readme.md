@@ -13,11 +13,11 @@ Dentro de la carpeta, se encuentran localizados los 5 archivos de la entrega de 
 
 ## Ejecución del programa:
 #### En Guane:
-1. gcc -fopenmp omp_armstrong.c -o arms -lm **(Compilar)
+1. gcc -fopenmp omp_armstrong.c -o arms -lm **(Compilar)**
 2. ./arms **(Ejecutar)
-2. sbatch armstrong.sbatch  **(ejecutar sbatch)
-3. Abrir el archivo output_armstrong.txt    **(ver salida)  
+2. sbatch armstrong.sbatch  **(ejecutar sbatch)**
+3. Abrir el archivo output_armstrong.txt    **(ver salida)**
 #### En local:
-1. gcc -fopenmp omp_armstrong.c -o arms -lm **(Compilar)
-2. ./arms **(Ejecutar)
+1. gcc -fopenmp omp_armstrong.c -o arms -lm **(Compilar)**
+2. ./arms **(Ejecutar)**
 
