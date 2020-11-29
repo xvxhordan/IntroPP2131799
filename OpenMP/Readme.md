@@ -8,6 +8,7 @@ Dentro de la carpeta, se encuentran localizados los 4 archivos de la entrega de 
 - omp_armstrong.c
 - armstrong.sbatch
 - readme.md
+- ouput_armstrong.txt
 
 
 ## Ejecución del programa:
@@ -15,6 +16,7 @@ Dentro de la carpeta, se encuentran localizados los 4 archivos de la entrega de 
 1. gcc -fopenmp omp_armstrong.c -o arms -lm **(Compilar)**
 2. ./arms **(Ejecutar)**
 3. sbatch armstrong.sbatch  **(ejecutar sbatch)**
+4. Abrir el archivo output_armstrong.txt **(ver salida)**
 #### En local:
 1. gcc -fopenmp omp_armstrong.c -o arms -lm **(Compilar)**
 2. ./arms **(Ejecutar)**
