@@ -41,7 +41,7 @@ void main(){
         temp = num;
         sum = 0;
         /* Se remplazo el ciclo while por un ciclo for para poder paralelizarlo*/
-   		#pragma omp ordered
+   	#pragma omp ordered
         for(temp = num; temp != 0; temp = temp/10){
             r=temp % 10;
             sum=sum+(r*r*r);
