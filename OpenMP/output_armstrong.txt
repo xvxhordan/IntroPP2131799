@@ -1,0 +1,2 @@
+Armstrong numbers in given range are: 1 153 370 371 407 
+Tiempo de ejecicion = 0.001840
