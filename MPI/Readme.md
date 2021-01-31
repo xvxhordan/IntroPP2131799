@@ -17,5 +17,5 @@ Dentro de la carpeta, se encuentran localizados los 6 archivos de la entrega de 
 1. module load devtools/mpi/openmpi/3.1.4
 2. mpicc -lm mpi_armstrong.c -o arms **(Compilar)**
 3. ./arms **(Ejecutar)**
-4. sbatch armstrong.sbatch  **(ejecutar sbatch)**
+4. sbatch armstrong-mpi.sbatch  **(ejecutar sbatch)**
 5. Abrir el archivo output_armstrong.txt **(ver salida)**
