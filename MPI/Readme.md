@@ -3,7 +3,7 @@ El siguiente codigo encuentra los numeros armstrong los cuales son aquellos que 
 
 Ejemplo: 153 = 1^3+5^3+3^3
 
-Dentro de la carpeta, se encuentran localizados los 4 archivos de la entrega de la evaluación 1:
+Dentro de la carpeta, se encuentran localizados los 6 archivos de la entrega de la evaluación 2:
 - arms (ejecutable)
 - armstrong.c
 - mpi_armstrong.c
